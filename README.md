@@ -4,7 +4,7 @@
 
 Anon is a fully responsive e-commerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-<a href="https://bd-weeby.github.io/anon/"><strong>➥ Live Demo</strong></a>
+<a href="https://russellbdevs.github.io/anon/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
